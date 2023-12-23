@@ -11,7 +11,7 @@ This project was created to practice my docker CLI skills as part of SDPX course
 ## Notice
 
 - Running localhost on port 8081 connect to `db-dev` database's name
-- Running localhost on port 8082 connect to `db-test` database's name
+- Running localhost on port 8082 connect to `db-test` database's name\
   -- See more information in docker-compose.yaml file.
 
 ## API Reference
